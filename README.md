@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Cathy
 
-<!--
-**CGuo0/CGuo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student developer with experience in multiple languages including Python, Java, JS, and Swift.
 
-Here are some ideas to get you started:
+## Skills
+- Python, Java, JS, Swift
+- Web Development (HTML, CSS, JavaScript)
+- Mobile App Development (Swift/SwiftUI)
+- Machine Learning & AI (TensorFlow, RoboFlow, Java, Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CGuo0&layout=compact)
+
